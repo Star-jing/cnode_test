@@ -16,7 +16,7 @@
           <p>欢迎进入 WEB 前端论坛！</p>
           <span>
             您可以先
-            <router-link to="/login" class="login">登录</router-link></span
+            <router-link to="/login" class="login">快来登录吧</router-link></span
           >
         </div>
       </template>
